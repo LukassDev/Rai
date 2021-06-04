@@ -163,4 +163,4 @@ fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(me
 });
 
 
-client.login("ODUwMTU0NjA3NTUxNTc4MjAy.YLlmLQ.WkX30eow5buiBQPhcQeYptKPyxM");
+client.login("TOKEN-HERE");
